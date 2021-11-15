@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidDailyCode</string>
+    <string name="tab_text_1">架构</string>
+    <string name="tab_text_2">WebView</string>
+    <string name="tab_text_3">其他</string>
+</resources>
